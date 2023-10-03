@@ -130,3 +130,43 @@ INSERT INTO Relatório (data_registro,id_empresa,id_tech) VALUES
 		('2022-01-05','4','21'),
 		('2022-01-05','4','18'),
 		('2022-01-05','4','30');
+
+_______________________________________________________________________________________________________________________________________________________________________________________________
+
+QUERIES
+
+/* 1. Qual empresa utiliza o maior número de tecnologias na última pesquisa (1/2022)?  */
+
+select empresaparceira.nome_fantasia as "Empresa", count(id_tech) as "Quantidade de Tecnologias - 1º semestre 2022" from relatório
+inner join empresaparceira on relatório.id_empresa = empresaparceira.id_empresa
+where relatório.data_registro = '20220105' 
+group by empresaparceira.nome_fantasia
+order by count (id_tech) desc;
+
+
+/* 2. Qual empresa utilizava o menor número de tecnologias na pesquisa anterior (2/2021)? */
+
+select empresaparceira.nome_fantasia as "Empresa", count(id_tech) as "Quantidade de Tecnologias - 2º semestre 2021" from relatório
+inner join empresaparceira on relatório.id_empresa = empresaparceira.id_empresa
+where relatório.data_registro = '20210601' 
+group by empresaparceira.nome_fantasia
+order by count (id_tech);
+
+/* 3. Quantas empresas utilizam tecnologias da área de “Dados” atualmente? */
+
+select count(distinct id_empresa)as "Quantidade de empresas", tecnologia.nome_area as "Área" from relatório
+inner join tecnologia on relatório.id_tech = tecnologia.id_tech
+where relatório.data_registro = '20220105' 
+group by tecnologia.nome_area
+having tecnologia.nome_area = 'Dados';
+
+
+/* 4. Quantas empresas utilizam tecnologias que não são da área de “Dados” atualmente? */
+
+select count(distinct id_empresa)as "Quantidade de empresas", tecnologia.nome_area as "Área" from relatório
+inner join tecnologia on relatório.id_tech = tecnologia.id_tech
+where relatório.data_registro = '20220105' 
+group by tecnologia.nome_area
+having tecnologia.nome_area <> 'Dados';
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
