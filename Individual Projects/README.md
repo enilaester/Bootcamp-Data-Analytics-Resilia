@@ -4,21 +4,22 @@ Each module had two mandatory individual mini-projects called "To-Do". The aim w
 
 ## Table of Contents
 
-* [Module 1](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#module-1)
-  - [Todo1 - Python’s installation tutorial](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo1---pythons-installation-tutorial)
-  -  [Todo2 - Automatic Sample Calculation](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo2---automatic-sample-calculation)
-* [Module 2](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#module-2)
-  - [Todo3 - It was a match! - Working with Python’s Lists](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo3---it-was-a-match---working-with-pythons-lists)
-  - [Todo4 - You’re hired! - Working with Python’s Dictionaries](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo4---youre-hired---working-with-pythons-dictionaries)
- * [Module 3](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#module-3)
-   - [Todo5 - ResiliaData - Data Modeling](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo5---resiliadata---data-modeling)
-   - [Todo6 - Resilia Database](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo6---resilia-database)
-* [Module 4](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#module-4)
-  - [Todo7 - Weekly Revenue and Cost Reports](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo7---weekly-revenue-and-cost-reports)
-   - [Todo8 - Exploratory Analysis of a Company’s Employees](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#todo8---exploratory-analysis-of-a-companys-employees)
- * [Module 5](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/tree/main/Individual%20Projects#module-5)
+* [Module 1](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#module-1)
+  - [Todo1 - Python’s installation tutorial](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo1---pythons-installation-tutorial)
+  -  [Todo2 - Automatic Sample Calculation](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo2---automatic-sample-calculation)
+* [Module 2](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#module-2)
+  - [Todo3 - It was a match! - Working with Python’s Lists](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo3---it-was-a-match---working-with-pythons-lists)
+  - [Todo4 - You’re hired! - Working with Python’s Dictionaries](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo4---youre-hired---working-with-pythons-dictionaries)
+ * [Module 3](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#module-3)
+   - [Todo5 - ResiliaData - Data Modeling](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo5---resiliadata---data-modeling)
+   - [Todo6 - Resilia Database](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo6---resilia-database)
+* [Module 4](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#module-4)
+  - [Todo7 - Weekly Revenue and Cost Reports](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo7---weekly-revenue-and-cost-reports)
+   - [Todo8 - Exploratory Analysis of a Company’s Employees](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo8---exploratory-analysis-of-a-companys-employees)
+ * [Module 5](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#module-5)
    - [Todo9 - Report with Graphs: Why are they leaving our company?](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo9---report-with-graphs-why-are-they-leaving-our-company)
    - [Todo10 - Tableau Visualization - World Happiness Report](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Individual%20Projects/README.md#todo10---tableau-visualization---world-happiness-report)
+
 ***
 ## Module 1
 
