@@ -176,7 +176,7 @@ Data Scientist|Python, Database, Machine Learning, Statistics, Problem-Solving
 
 
 
-### Todo8 - Exploratory Analysis of a Company's’ Employees
+### Todo8 - Exploratory Analysis of a Company's Employees
 
 >***Briefing**: In this new task, you must conduct an exploratory analysis of the employee data for 'Milsa Company' to enable the company's leaders to obtain a better understanding of their current workforce. Prior to conducting the exploration, it is necessary to inspect the data quality, including outliers, and to perform cleaning if necessary. You should answer the following questions:*
 >
@@ -204,7 +204,7 @@ Data Scientist|Python, Database, Machine Learning, Statistics, Problem-Solving
 
 ## Module 5
 
-### Todo9 - Report and Charts: Why are they leaving our company?
+### Todo9 - Report with Graphs: Why are they leaving our company?
 
 > ***Briefing**: The following bubble chart is taken from the book: "Storytelling with Data: Let's Practice!" by Cole Nussbaumer Knaflic. The scenarios proposed in the book can be utilized to help us comprehend and exercise several lessons related to data communication.*
 
