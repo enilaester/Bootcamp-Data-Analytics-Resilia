@@ -1,10 +1,22 @@
 # Squad Projects ![](https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8)
 
-The final project for each module was the main way of assessing our development throughout the bootcamp.
+The final project for each module was the main way of assessing our development throughout the bootcamp. The projects were always done in squads over a period of about 2 weeks. It was possible to get help during the weekly mentoring sessions. The squad was expected to prepare a visual presentation and all members were supposed to talk about the project.
 
 ## Table of Contents
 
+* [Project Evaluation](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-evaluation)
 
+* [Squad Responsabilities](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#squad-responsibilities)
+
+* [Project 1: Chatbot for a Veterinary Clinic - Python project with an emphasis on conditional flows](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-1-chatbot-for-a-veterinary-clinic---python-project-with-an-emphasis-on-conditional-flows)
+
+* [Project 2: Public Opinion Poll on Brazilian Elections - Python project with emphasis on data structures](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-2-public-opinion-poll-on-brazilian-elections---python-project-with-emphasis-on-data-structures)
+
+* [Project 3- Modeling a database for Resilia](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-3--modeling-a-database-for-resilia)
+
+* [Project 4- Exploratory Analysis: Fuel Prices in Brazil](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-4--exploratory-analysis-fuel-prices-in-brazil)
+
+* [Project 5- Storytelling and data visualization: Squad members' journeys](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-5--storytelling-and-data-visualization-squad-members-journeys)
 
 
 ## **Project Evaluation:**
@@ -21,7 +33,7 @@ There were learning expectations for every project, which were translated into a
 
 **`😎 You’re something else`**: when the person being assessed exceeds expectations and shows mastery of skills beyond what is required.
 
- :brain: Soft skills were evaluated by ourselves and our peers, considering how often we displayed certain attitudes. It was also possible to give individual feedback to each member.
+ :brain: **Soft skills** were evaluated by ourselves and our peers, considering how often we displayed certain attitudes. It was also possible to give individual feedback to each member.
 
 ## **Squad Responsibilities:**
 
@@ -33,13 +45,12 @@ The whole squad was responsible for the project (creation and presentation). But
 
 -   **`"People and Engagement Manager”`**: responsible for monitoring the 'spirit' of the team, helping with any conflicts and/or misunderstandings, ensuring that the group is functioning well, and that everyone is fulfilling their responsibilities.
 
--   **`“General Collaborator I, II”`**: Responsible for helping other members with their respective duties and ensuring that all tasks are completed on time.
+-   **`“General Collaborator I, II”`**: responsible for helping other members with their respective duties and ensuring that all tasks are completed on time.
   
 
 ## **Project 1: Chatbot for a Veterinary Clinic - Python project with an emphasis on conditional flows**
 
-Below you'll find a description of the project, the link to its repository and my tech and soft skills assessments.
-
+Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
 ### **About:**
 
@@ -89,7 +100,7 @@ Below you'll find a description of the project, the link to its repository and m
 
 ## Project 2: Public Opinion Poll on Brazilian Elections - Python project with emphasis on data structures
 
-Below you'll find a description of the project, the link to its repository and my tech and soft skills assessments.
+Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
 
 ### About
@@ -122,7 +133,7 @@ Below you'll find a description of the project, the link to its repository and m
 
 | Rubrics 	| Description 	| Evaluation 	|
 |---	|---	|---	|
-| **General Structure of the Code** 	| <li>The project has been completed and submitted.</li>  <li>The developed code is running without errors.</li>  <li>The developed code fulfills the requirements of the project.</li>  <li>Each option has been separated into different files or functions.</li>  <li>The files have been structured in folders.</li> 	| 🤩 You made it 	|
+| **General Structure of the Code** 	| <li>The project has been completed and submitted.</li>  <li>The developed code is running without errors.</li>  <li>The developed code fulfills the requirements of the project.</li>  <li>The code has been separated into different files or functions.</li>  <li>The files have been structured in folders.</li> 	| 🤩 You made it 	|
 | **Use of Functions** 	| <li>Functions have been used in the submitted project.</li>  <li>Functions are free of logic errors.</li>  <li>The code is indented.</li>  <li>There are no syntax problems.</li>  <li>Functions are used correctly and appropriately. Not just to fulfil project requirements.</li> 	| 😎 You’re something else 	|
 | **Object-Oriented Paradigm:** 	| <li>The basic concepts of OOP were used, such as the definition of classes, attributes and methods.</li>  <li>The OOP concepts used were correctly applied.</li>  <li>The OOP is applied according to the business rules defined in the project requirements.</li>  <li>There are no syntax problems.</li>  <li>The object-orientation paradigm has been used with the application of encapsulation and constructor methods (used when they are necessary, not just to fulfil the project requirements)</li> 	| 😎 You’re something else 	|
 | **Python** 	| <li>The Python code has been submitted.</li>  <li>You can test the whole project with the code running.</li>  <li>Functions have been used.</li>  <li>Repetition structures and conditional loops have been used appropriately.</li>  <li>Code reuse concepts have been applied.</li> 	| 🤩 You made it 	|
@@ -143,7 +154,7 @@ Below you'll find a description of the project, the link to its repository and m
  ***
 ## Project 3- Modeling a database for Resilia
 
-Below you'll find a description of the project, the link to its repository and my tech and soft skills assessments.
+Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
 ### About
 
@@ -205,7 +216,7 @@ Below you'll find a description of the project, the link to its repository and m
 
 ## Project 4- Exploratory Analysis: Fuel Prices in Brazil
 
-Below you'll find a description of the project, the link to its repository and my tech and soft skills assessments.
+Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
 ### About
 
@@ -267,7 +278,7 @@ Below you'll find a description of the project, the link to its repository and m
 
 ## Project 5- Storytelling and data visualization: Squad members' journeys
 
-Below you'll find a description of the project, the link to its repository and my tech and soft skills assessments.
+Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
 ### About
 
