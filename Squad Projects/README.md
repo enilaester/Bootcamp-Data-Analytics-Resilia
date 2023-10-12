@@ -324,3 +324,5 @@ Below you'll find a description of the project, the link to its repository (in B
     - `Team Work`
   
  ***
+
+### Thank you for reading! I look forward to talking to you if you have any suggestions or doubts ⭐
