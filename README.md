@@ -63,7 +63,7 @@ By clicking on the left arrow, you can read the topics covered in each module:
 
 ## Projects 🏗️
 
-During the course, I completed individual and group challenge. You can access them using these links:
+During the course, I completed individual and group challenges. You can access them using the following links:
 
 🔗[Individual Projects](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/3c1b6ad389d7c102d98b71411c08b9796d06afc4/Individual%20Projects/README.md)
 
