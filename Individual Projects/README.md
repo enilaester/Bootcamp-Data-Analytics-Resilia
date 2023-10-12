@@ -1,6 +1,6 @@
 # Individual Projects ✍🏽
 
-Each module had two mandatory individual mini-projects called "To-Do". The aim was to put into practice what we had learned and to prepare us for the final project, so there was no feedback, but we could discuss our doubts during the weekly mentoring sessions. In general, the second "To-Do" of each module was more challenging than the first one. 
+There were two required individual mini-projects in each module called "To-Do". The aim was to put into practice what we had learned and to prepare us for the final project. Although there was no feedback, we could discuss it during the weekly mentoring sessions. In general, the second to-do of each module was more challenging than the first. For each to-do you will find the proposed activity, the tools used :toolbox: and a 🔗 for my proposed solution.
 
 ## Table of Contents
 
