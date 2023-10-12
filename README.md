@@ -4,11 +4,12 @@
 
 The 6 months Data Analytics Bootcamp by [Resilia Educação](https://www.resilia.com.br/) (450 hours in total) is an intense online training to prepare for a career as Data Analyst. Along with tech classes about programming, data manipulation and interpretation, it also offers classes focused on job hunting, agile methodologies and soft skills such as assertive communication, learning how to learn, adaptability, time management, leadership, resilience and teamwork. I’ve attended the bootcamp between May and November 2022. My final certification is [available for consultation.](https://www.credential.net/6874cb59-2235-4f96-a5ad-c3b024181c96#gs.625e8x)📜
 
+All the projects were made in my native language, Portuguese. Therefore, through this repository, I've tried to describe them in English, so I can present my work to more people. It was also a personal challenge to write in another language!😊
 ***
 ## Course Curriculum 🗂️
 
 
-By clicking on the arrow, you can read the topics covered in each module:
+By clicking on the left arrow, you can read the topics covered in each module:
 <details>
 
  **<summary>1st module: Introduction to Programming Logic and How to Prepare for Job Selection Processes </summary>**
@@ -62,7 +63,11 @@ By clicking on the arrow, you can read the topics covered in each module:
 
 ## Projects 🏗️
 
-During the course, I completed individual and group challenges, you can find it here:
+During the course, I completed individual and group challenge. You can access them using these links:
+
+🔗[Individual Projects](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/3c1b6ad389d7c102d98b71411c08b9796d06afc4/Individual%20Projects/README.md)
+
+🔗[Squad Projects](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/3c1b6ad389d7c102d98b71411c08b9796d06afc4/Squad%20Projects/README.md)
 
 
 
