@@ -19,7 +19,7 @@ The final project for each module was the main way of assessing our development 
 * [Project 5- Storytelling and data visualization: Squad members' journeys](https://github.com/enilaester/Bootcamp-Data-Analytics-Resilia/blob/main/Squad%20Projects/README.md#project-5--storytelling-and-data-visualization-squad-members-journeys)
 
 
-## **Project Evaluation:**
+## Project Evaluation:
 
 There were learning expectations for every project, which were translated into a set of criteria for grading our assignments, known as “rubrics”. Depending on our performance, we could achieve 5 levels of development in terms of technical skills:
 
@@ -35,7 +35,7 @@ There were learning expectations for every project, which were translated into a
 
  :brain: **Soft skills** were evaluated by ourselves and our peers, considering how often we displayed certain attitudes. It was also possible to give individual feedback to each member.
 
-## **Squad Responsibilities:**
+## Squad Responsibilities:
 
 The whole squad was responsible for the project (creation and presentation). But additionally every member had a specific role (which changed with every project):
 
