@@ -48,11 +48,11 @@ The whole squad was responsible for the project (creation and presentation). But
 -   **`“General Collaborator I, II”`**: responsible for helping other members with their respective duties and ensuring that all tasks are completed on time.
   
 
-## **Project 1: Chatbot for a Veterinary Clinic - Python project with an emphasis on conditional flows**
+## Project 1: Chatbot for a Veterinary Clinic - Python project with an emphasis on conditional flows
 
 Below you'll find a description of the project, the link to its repository (in Brazilian Portuguese) and my tech and soft skills assessments.
 
-### **About:**
+### About:
 
 > *Your team has been asked to create a chatbot for a fictional company. It has two goals, Firstly, to assist users with questions about the services offered by the company. Secondly, to collect information for future decision-making. As a group, define the field of activity of this fictional company.*
 >
