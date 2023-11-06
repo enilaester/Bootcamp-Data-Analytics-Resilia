@@ -4,7 +4,7 @@
 
 The 6 months Data Analytics Bootcamp by [Resilia Educação](https://www.resilia.com.br/) (450 hours in total) is an intense online training to prepare for a career as Data Analyst. Along with tech classes about programming, data manipulation and interpretation, it also offers classes focused on job hunting, agile methodologies and soft skills such as assertive communication, learning how to learn, adaptability, time management, leadership, resilience and teamwork. I’ve attended the bootcamp between May and November 2022. My final certification is [available for consultation.](https://www.credential.net/6874cb59-2235-4f96-a5ad-c3b024181c96#gs.625e8x)📜
 
-All the projects were made in my native language, Portuguese. Therefore, through this repository, I've tried to describe them in English, so I can present my work to more people. It was also a personal challenge to write in another language!😊
+All the projects were made in my native language, Portuguese. However, through this repository, I've tried to describe them in English, so I can present my work to more people. It was also a personal challenge to write in another language!😊
 ***
 ## Course Curriculum 🗂️
 
